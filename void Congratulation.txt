@@ -4,6 +4,7 @@ void Congratulation ()
 //welcome
 =======
     Thank you;
+    
 >>>>>>> 5da1d80168d26a4848bf6c4d345912c8b1300af3
 
 My something
@@ -11,3 +12,15 @@ My something
 
 
 }
+// this Modified by Ashenafi
+Public static void main()
+{
+  int x=1;
+  int  y=3;
+   //swap
+   x+y;
+   x = substring(a.X)-(b.Y);
+   Y= substring (b.X)+(a.Y);
+   }
+  
+  
